@@ -1,2 +1,3 @@
-# BibleTalkAI.OpenAI
-OpenAI Assistants/Threads libraries
+# BibleTalkAI.ObjectPools
+
+Library contains types for object pooling.
